@@ -1,0 +1,53 @@
+body{
+    font-family:Arial, sans-serrif;
+    background-color: #f5e6d3;
+    color: #4b2e1e;
+    margin: 30px;
+}
+
+h1 {
+    color: #6f3e23;
+
+}
+
+h2 {
+    color: #8b4513;
+
+}
+
+tagline {
+    font-size: 18px;
+    color: #654321;
+
+}
+
+note{
+    background: #fff3e0 ;
+    color: #654321;
+    padding: 10px ;
+    margin: 20px;
+    font-style: italic ;
+    border-left: 4px solid brown;
+
+}
+#best-seller{
+    color: red;
+    font-weight: bold;
+
+}
+
+img{
+    width: 250px; ;
+    height: auto;
+    border-radius: 10px ;
+
+}
+
+a{
+    color:#8b4513;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
